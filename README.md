@@ -17,7 +17,7 @@ A plataforma já está em uso em diversos municipios, estados, no governo federa
 * http://mapa.cultura.rs.gov.br
 * http://culturaz.santoandre.sp.gov.br
 * http://mapa.cultura.to.gov.br
-* https://mapas.cultura.mt.gov.br
+* https://mapas.mt.gov.br
 * http://mapaculturalbh.pbh.gov.br
 * http://lugaresdacultura.org.br
 * http://mapas.cultura.gov.br
